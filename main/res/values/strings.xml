@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
+
+    <string name="q_kolory">Samoyedy są tylko białe</string>
+    <string name="q_pasterskie">Samoyedy sa psami pasterskimi</string>
+    <string name="q_lozko">Historycznie samoyedy spały na zewnątrz</string>
+    <string name="q_agresja">Samoyedy sa rasą uznaną za agresywną</string>
+    <string name="q_chmurki">Słowo chmurki jest obraźliwe</string>
+
+    <string name="correct_answer">Prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">Zła odpowiedź</string>
+
+    <string name="button_helper">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona :( Przykro mi</string>
+
+
+</resources>
